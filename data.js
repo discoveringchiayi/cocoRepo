@@ -123,7 +123,7 @@ var APP_DATA = {
           "yaw": -0.9901308351774141,
           "pitch": -0.01454586917185452,
           "title": "可可樹",
-          "text": "&lt;img src=\\\"img/sample.jpg\\\" width=\\\"250\\\" /&gt;"
+          "text": "<img src=\"img/sample.jpg\" width=\"250\" />"
         }
       ]
     }
