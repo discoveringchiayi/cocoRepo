@@ -128,7 +128,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "可敬巧克力",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
